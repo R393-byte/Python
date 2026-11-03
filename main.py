@@ -2,3 +2,5 @@
 # print("WW TWICH")
 print("hi.\t111","i Valebt", end="@", sep="%")
 print(4/2)
+input("du Jahre alt")
+print("12")
